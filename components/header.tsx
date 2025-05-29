@@ -75,7 +75,7 @@ export function Header({
               </div>
               <div>
                 <h1 className="text-2xl font-bold bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent">
-                  Web3 Gas Tracker
+                  Web3 Gas Tracker By ZK
                 </h1>
                 <p className="text-sm text-muted-foreground">
                   Real-time blockchain fees across networks
